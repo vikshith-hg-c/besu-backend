@@ -1,0 +1,6 @@
+network="MAINNET"
+data-path="/Volumes/SEGATE-LIVE/besu-test/main" 
+rpc-http-enabled=true
+rpc-http-host="127.0.0.1"
+rpc-http-port="8545" 
+sync-mode="x_SNAP" 
